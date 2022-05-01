@@ -1,5 +1,5 @@
 # Responsive-Landing-Page-Example
-A responsive landing page example following Kevin Powell video with extra features
+A responsive landing page example following [Kevin Powell](https://github.com/kevin-powell) video with extra features
 
 [Live demo](https://htmlpreview.github.io/?https://github.com/xdelmo/Responsive-Landing-Page-Example/blob/master/index.html)
 ## Features
