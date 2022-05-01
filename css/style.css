@@ -38,6 +38,7 @@ html {
   box-sizing: border-box;
   color: var(--clr-text);
   font-size: 1.125rem;
+  scroll-behavior: smooth;
 }
 
 body {
