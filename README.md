@@ -1,7 +1,16 @@
 # Responsive-Landing-Page-Example
+
 A responsive landing page example following [Kevin Powell](https://github.com/kevin-powell) video with extra features
 
-[Live demo](https://htmlpreview.github.io/?https://github.com/xdelmo/Responsive-Landing-Page-Example/blob/master/index.html)
+## Screenshots
+
+Desktop view
+![desktop-view](./screenshot/desktop-view.png)
+
+Mobile view
+![mobile-view](./screenshot/mobile-view.png)
+
+![Live demo](https://htmlpreview.github.io/?https://github.com/xdelmo/Responsive-Landing-Page-Example/blob/master/index.html)
 
 ## Features
 
@@ -16,4 +25,5 @@ A responsive landing page example following [Kevin Powell](https://github.com/ke
 - Products images margin isn't responsive as I like
 
 ## 🔗 Links
+
 ![YouTube Video Views](https://img.shields.io/youtube/views/zyNhxN6sToM?label=Source&style=social)
